@@ -1,4 +1,4 @@
-weed - XChat based theme for irssi
+XChat based theme for irssi
 ==============
 
 ### Designed to be the most beautiful irssi theme in the world.
